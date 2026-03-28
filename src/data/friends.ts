@@ -62,11 +62,11 @@ export const friendsData: FriendItem[] = [
 	},
 	{
 		id: 7,
-		title: "GitHub",
-		imgurl: "https://avatars.githubusercontent.com/u/9919?v=4&s=640",
-		desc: "Where the world builds software",
-		siteurl: "https://github.com",
-		tags: ["Development", "Platform"],
+		title: "YouziX",
+		imgurl: "https://avatars.githubusercontent.com/u/166191037?v=4&s=640",
+		desc: "Youzix_Star的博客",
+		siteurl: "https://youzix.dpdns.org/",
+		tags: ["Development", "Blog"],
 	},
 	{
 		id: 8,
