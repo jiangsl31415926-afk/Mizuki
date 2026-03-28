@@ -70,11 +70,11 @@ export const friendsData: FriendItem[] = [
 	},
 	{
 		id: 8,
-		title: "MDN Web Docs",
+		title: "PronHub",
 		imgurl: "https://avatars.githubusercontent.com/u/7565578?v=4&s=640",
-		desc: "The web's most comprehensive resource for web developers",
-		siteurl: "https://developer.mozilla.org",
-		tags: ["Docs", "Reference"],
+		desc: "917813",
+		siteurl: "https://cn.pornhub.com/"
+		tags: ["91", "7813"],
 	},
 ];
 
