@@ -73,7 +73,7 @@ export const friendsData: FriendItem[] = [
 		title: "PronHub",
 		imgurl: "https://avatars.githubusercontent.com/u/7565578?v=4&s=640",
 		desc: "917813",
-		siteurl: "https://cn.pornhub.com/"
+		siteurl: "https://cn.pornhub.com/",
 		tags: ["91", "7813"],
 	},
 ];
